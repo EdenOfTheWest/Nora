@@ -1,0 +1,9 @@
+node_modules
+commandz
+trash
+config.json
+database.db
+package-lock.json
+package.json
+files.js
+roles.js
